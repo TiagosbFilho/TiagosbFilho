@@ -7,8 +7,8 @@
 
 
 <a href="https://github.com/tiagosbFilho">
-  <img height="160em " src="https://github-readme-stats.vercel.app/api?username=tiagosbFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosbFilho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em " src="https://github-readme-stats.vercel.app/api?username=tiagosbFilho&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosbFilho&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 
@@ -23,10 +23,5 @@
 <img align="center" alt="tigas-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
 
-
-
-
-
-
-
+  
 </div
