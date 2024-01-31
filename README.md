@@ -1,8 +1,8 @@
 <h2> Seja Bem-vindo!!</h2>
 
-- 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Estudando linguagem React.js e Node.js
-- 👨‍💻 Estudante e usuário do Sistema Operacional Linux
+- 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas;
+- 👨‍💻 Estudante de JAVA e suas tecnologias;
+- 👨‍💻 Estudante e usuário do Sistema Operacional Linux.
 
 <div>
 <a href="https://github.com/tiagosbFilho">
